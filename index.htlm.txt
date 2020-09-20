@@ -1,0 +1,25 @@
+<doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Моя личная страничка</title>
+<left><h1>Моя личная страничка</h1></left>
+</head>
+<body>
+<left><h1>Софья Горьковая</h1></left>
+<left><img 1. пол: женский
+<left><img 2. дата рождения: 28.06.2002.
+<left><img 3. город: Воронеж
+
+<h2>Контакты:</h2>
+Страничка <a href=https:https://vk.com/afatlazycat/>vkontakte</a>
+Станичка <a href=https://vk.com/slmnv3004/>vkontakte</a>
+<br/>
+<a href=https://www.instagram.com/grk.so/</a>
+Страничка <a href=https://www.instagram.com/grk.so/</a>
+
+Телефон: <b>+7-951-569-18-15</b>
+
+E-mail: <i>sophy.gorkaya@gmail.com</i>
+
+</html> 
